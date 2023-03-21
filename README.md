@@ -20,9 +20,9 @@ N/A
 
 To gain acess to this webpage, navigate to the URL and click on it. Once on the webpage, the header will let the user will se the day and day of the week dispayed at the top. To input tasks or events for the day, a user can simply click on any textbox that is gray, red, or green and start writing. Once the user is finished writing their task, then can click on the adjacent save button to the right of the textbox that is in a blue square. If the user refreshes, the input will still be there. Gray textboxes mean that that hour for the day has already passed. Red means that that is the present hour and green means future. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![alt](assets/images/top.png)
+![alt](assets/images/bottom.png)
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
